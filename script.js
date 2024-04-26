@@ -193,16 +193,16 @@ document.addEventListener("keypress", function (event) {
         displayTweet("popCulture");
         break;
       case 51: // 3
-        displayMessage("holidays");
+        displayTweet("holidays");
         break;
       case 52: // 4
-        displayMessage("currentEvents");
+        displayTweet("currentEvents");
         break;
       case 53: // 5
-        displayMessage("work");
+        displayTweet("work");
         break;
       case 54: // 6
-        displayMessage("lifeUpdates");
+        displayTweet("lifeUpdates");
         break;
       default:
         break;
